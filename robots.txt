@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brevantguide.com/sitemap.xml
